@@ -1,7 +1,5 @@
 import static java.util.Objects.isNull;
 import static java.util.Objects.nonNull;
-
-import java.rmi.server.ObjID;
 import java.util.List;
 import java.util.Map;
 import java.util.Scanner;
@@ -12,7 +10,6 @@ import java.util.ArrayList;
 
 import br.com.dio.util.BoardTemplate;
 import br.com.dio.util.model.Board;
-import br.com.dio.util.model.GameStatusEnum;
 import br.com.dio.util.model.Space;
 
 public class App {
