@@ -1,4 +1,6 @@
 /.vscode
 
 bin
+bin/**/*
+**/bin/
 bin/App.class
