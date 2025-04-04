@@ -1,18 +1,17 @@
-## Getting Started
+# Projeto "Sudoku" - Solução Oficial Dio
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este repositório contém a solução oficial apresentada durante o curso da Dio. Foi copiado para fins de estudo e comparação com a minha solução original.
 
-## Folder Structure
+## Funcionalidades
 
-The workspace contains two folders by default, where:
+- Implementa todos os requisitos funcionais definidos no curso, incluindo:
+  - Iniciar um novo jogo
+  - Inserir e remover números
+  - Verificar o estado do jogo
+  - Limpar o tabuleiro
+  - Finalizar o jogo
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Observações
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+- Este repositório serve como referência para comparar com a minha solução original, que pode ser encontrada [aqui](https://github.com/vini-basilio/dio-sudoku/).
+- Ainda estou implementando os recursos não obrigatórios (UI).
